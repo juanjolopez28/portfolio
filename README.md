@@ -1,55 +1,114 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
+#### Technical Skills: Python, SQL, GCP, Azure, Machine Learning, NLP, Power BI.
+#### Soft Skills: Assertive communication, Leadership, Attention to detail, Agile learning, Creative thinking
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Data Scientist | Bootcamp Henry (_2023_)								       		
+- M.S., Informatics and TICs	| National University of San Agustín de Arequipa - Perú  (_2021 - 2023_) 			        		
+- B.S., Computer Science | National University of San Agustín de Arequipa - Perú  (_2012 - 2018_)
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Comparison of models for the automatic classification of theses in Spanish in PDF format based on metadata using SVM, LSTM and BERT
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Carry out a web scrapping for the acquisition of data, repositories of thesis and research of the University.
+- Develop data engineering, for information cleaning, use of OCR (Optical Character Recognition) to transform PDF information into text.
+- Implement, train and evaluate the classification models: Support vector machine - SVM, Long Short Term Memory-LSTM and Bidirectional Encoder Representations from Transformers -BERT.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+<p align="center">
+<img src="/assets/img/maestria.jpg" alt="image" width="70%">
+</p>
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Analysis and implementation of predictive models for the gastronomy sector in the United States using data from Google Maps and Yelp
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- Implement, train and evaluate the classification models and natural language processing for the analysis of sentiment and trends of restaurant reviews in the database.
+- Implementation of the data warehouse through Google cloud services: Google cloud Storage, SQL, Vertex IA, Big query.
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+<p align="center">
+<img src="/assets/img/proyec_finalH.jpeg" alt="image" width="70%">
+</p>
+
+### Analysis of the behavior of the telecommunications sector using Datascience techniques
+
+- Develop Exploratory Data Analysis (EDA) to identify null values and outliers from our database. Develop the Extraction, Transformation and Loading (ETL) process of the data to identify the key values and adequacy of the data for its use.
+- Generate visualization reports based on user/customer requirements.
+
+
+
+<p align="center">
+<img src="/assets/img/pipiline_2.jpg" alt="image" width="70%">
+</p>
+
+
+<p align="center">
+<img src="/assets/img/dashboard_2.png" alt="image" width="70%">
+</p>
+
+### Movie Recommendation System
+
+- Develop Exploratory Data Analysis (EDA) to identify null values and outliers from our database.Develop the Extraction, Transformation and Loading (ETL) process of the data to identify the key values and adequacy of the data for its use.
+- Implement the machine learning model for the recommendation system and deployment of an API through Fast API and render for the consumption of functions with respect to the data.
+
+
+<p align="center">
+<img src="/assets/img/pipiline_1.jpg" alt="image" width="70%">
+</p>
+
+
+### Sentiment analysis for reviews in Spanish in google play store using BERT
+
+- Design solutions based on the data presented and/or what is intended by the user/client.
+- Develop data engineering, data warehouse and machine learning to make predictions on particular metrics.
+- Generate visualization reports based on user/customer requirements.
+
+<p align="center">
+<img src="/assets/img/proceso_scraping_bert.png" alt="image" width="70%">
+</p>
+
+<p align="center">
+<img src="/assets/img/proceso_bert.png" alt="image" width="70%">
+</p>
+
+
+### Detection of spatio-temporal patterns in Twitter
+
+- Design a web scraping and use of the twitter API to download the information as well as its storage in a sql database, develop data engineering, and machine learning to make predictions about 04 dimensions of the tweet: Content, space, social and temporary.
+- Generate visualization reports, especially with the 04 dimensions of the project.
+
+
+<p align="center">
+<img src="/assets/img/clustering_db.png" alt="image" width="40%">
+</p>
+
+<p align="center">
+<img src="/assets/img/multi_espacial_db.png" alt="image" width="60%">
+</p>
+
+
+## Work Experience
+**Data Scientist Junior - JAKU Emprende UNSA, Arequipa, Perú. (_January 2023 - July 2023_)**
+- Manage the database of ventures and events held.
+- Generate reports for data analysis and decision making, regarding the information from the incubator's online system.
+- Analyze the evaluation criteria of the competitive funds of the startups for application in the incubator programs.
+
+
+**Innovation executive - UNSA, Arequipa, Perú.  (_January 2020 - December 2022_)**
+- Implement innovation and recruitment programs for startups in the incubation stage
+- Implement courses for research teachers focused on innovation and technology transfer
+
+
+**Junior Software Developer - Contasistemas, Arequipa, Perú.  (_January 2018 - December 2018_)**
+- Collaborate in the construction and maintenance of software or websites.
+- Assist in the documentation of development processes, including coding and code reviews.
+- Resolve bugs and technical issues that arise during the development process.
+
+
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+1. Gonzales-Saji, F., Jimenez-Gonzales, L., Lopez-Condori, J., Romero-Chalhua, M., Yanyachi-Aco-Cardenas, P., Gamification as a strategy in the learning teaching process and its impact on students of the professional school of Education Sciences | Gamificación como estrategia en el proceso de enseñanza aprendizaje y su impacto en estudiantes de la escuela profesional de Ciencias de la Educación (2020). DOI: 10.18687/LACCEI2020.1.1.249
+2. Gonzales-Saji, F., Lopez-Condori, J., Jimenez-Gonzales, L., Romero-Chalhua, M., Yanyachi-Aco-Cardenas, P.
+Proceedings of the LACCEI international Multi-conference for Engineering, Education and Technology, 2020, Experience in learning based on ABPr projects in senior students of the professional school of systems engineering (2020). DOI: 10.18687/LACCEI2020.1.1.229
+3. López Condori , Juan, Gonzales Saji, Freddy, Sentiment analysis for spanish reviews on Google Play Store using BERT (2021). DOI: http://dx.doi.org/10.4067/S0718-33052021000300557 
 
-- [Data Science Blog](https://medium.com/@shawhin)
+
