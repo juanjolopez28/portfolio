@@ -15,7 +15,7 @@
 - Implement, train and evaluate the classification models: Support vector machine - SVM, Long Short Term Memory-LSTM and Bidirectional Encoder Representations from Transformers -BERT.
 
 <p align="center">
-<img src="/assets/img/maestria.jpg" alt="image" width="70%">
+<img src="../assets/img/maestria.jpg" alt="image" width="70%">
 </p>
 
 ### Analysis and implementation of predictive models for the gastronomy sector in the United States using data from Google Maps and Yelp
@@ -26,7 +26,7 @@
 
 
 <p align="center">
-<img src="/assets/img/proyec_finalH.jpeg" alt="image" width="70%">
+<img src="../assets/img/proyec_finalH.jpeg" alt="image" width="70%">
 </p>
 
 ### Analysis of the behavior of the telecommunications sector using Datascience techniques
@@ -37,12 +37,12 @@
 
 
 <p align="center">
-<img src="/assets/img/pipiline_2.jpg" alt="image" width="70%">
+<img src="../assets/img/pipiline_2.jpg" alt="image" width="70%">
 </p>
 
 
 <p align="center">
-<img src="/assets/img/dashboard_2.png" alt="image" width="70%">
+<img src="../assets/img/dashboard_2.png" alt="image" width="70%">
 </p>
 
 ### Movie Recommendation System
@@ -52,7 +52,7 @@
 
 
 <p align="center">
-<img src="/assets/img/pipiline_1.jpg" alt="image" width="70%">
+<img src="../assets/img/pipiline_1.jpg" alt="image" width="70%">
 </p>
 
 
@@ -63,11 +63,11 @@
 - Generate visualization reports based on user/customer requirements.
 
 <p align="center">
-<img src="/assets/img/proceso_scraping_bert.png" alt="image" width="70%">
+<img src="../assets/img/proceso_scraping_bert.png" alt="image" width="70%">
 </p>
 
 <p align="center">
-<img src="/assets/img/proceso_bert.png" alt="image" width="70%">
+<img src="../assets/img/proceso_bert.png" alt="image" width="70%">
 </p>
 
 
@@ -78,11 +78,11 @@
 
 
 <p align="center">
-<img src="/assets/img/clustering_db.png" alt="image" width="40%">
+<img src="../assets/img/clustering_db.png" alt="image" width="40%">
 </p>
 
 <p align="center">
-<img src="/assets/img/multi_espacial_db.png" alt="image" width="60%">
+<img src="../assets/img/multi_espacial_db.png" alt="image" width="60%">
 </p>
 
 
@@ -106,7 +106,8 @@
 
 
 ## Publications
-1. Gonzales-Saji, F., Jimenez-Gonzales, L., Lopez-Condori, J., Romero-Chalhua, M., Yanyachi-Aco-Cardenas, P., Gamification as a strategy in the learning teaching process and its impact on students of the professional school of Education Sciences | Gamificación como estrategia en el proceso de enseñanza aprendizaje y su impacto en estudiantes de la escuela profesional de Ciencias de la Educación (2020). DOI: 10.18687/LACCEI2020.1.1.249
+
+1. Gonzales-Saji, F., Jimenez-Gonzales, L., Lopez-Condori, J., Romero-Chalhua, M., Yanyachi-Aco-Cardenas, P., Gamification as a strategy in the learning teaching process and its impact on students of the professional school of Education Sciences (2020). DOI: 10.18687/LACCEI2020.1.1.249
 2. Gonzales-Saji, F., Lopez-Condori, J., Jimenez-Gonzales, L., Romero-Chalhua, M., Yanyachi-Aco-Cardenas, P.
 Proceedings of the LACCEI international Multi-conference for Engineering, Education and Technology, 2020, Experience in learning based on ABPr projects in senior students of the professional school of systems engineering (2020). DOI: 10.18687/LACCEI2020.1.1.229
 3. López Condori , Juan, Gonzales Saji, Freddy, Sentiment analysis for spanish reviews on Google Play Store using BERT (2021). DOI: http://dx.doi.org/10.4067/S0718-33052021000300557 
