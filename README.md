@@ -15,7 +15,7 @@
 - Implement, train and evaluate the classification models: Support vector machine - SVM, Long Short Term Memory-LSTM and Bidirectional Encoder Representations from Transformers -BERT.
 
 <p align="center">
-<img src="assets/img/maestria.jpg" alt="image" width="70%">
+<img src="./assets/img/maestria.jpg" alt="image" width="80%">
 </p>
 
 ### Analysis and implementation of predictive models for the gastronomy sector in the United States using data from Google Maps and Yelp
@@ -26,7 +26,7 @@
 
 
 <p align="center">
-<img src="assets/img/proyec_finalH.jpeg" alt="image" width="70%">
+<img src="./assets/img/proyec_finalH.jpeg" alt="image" width="85%">
 </p>
 
 ### Analysis of the behavior of the telecommunications sector using Datascience techniques
@@ -37,12 +37,12 @@
 
 
 <p align="center">
-<img src="assets/img/pipiline_2.jpg" alt="image" width="70%">
+<img src="./assets/img/pipiline_2.jpg" alt="image" width="80%">
 </p>
 
 
 <p align="center">
-<img src="assets/img/dashboard_2.png" alt="image" width="70%">
+<img src="./assets/img/dashboard_2.png" alt="image" width="80%">
 </p>
 
 ### Movie Recommendation System
@@ -52,7 +52,7 @@
 
 
 <p align="center">
-<img src="assets/img/pipiline_1.jpg" alt="image" width="70%">
+<img src="./assets/img/pipiline_1.jpg" alt="image" width="80%">
 </p>
 
 
@@ -63,11 +63,11 @@
 - Generate visualization reports based on user/customer requirements.
 
 <p align="center">
-<img src="assets/img/proceso_scraping_bert.png" alt="image" width="70%">
+<img src="./assets/img/proceso_scraping_bert.png" alt="image" width="70%">
 </p>
 
 <p align="center">
-<img src="assets/img/proceso_bert.png" alt="image" width="70%">
+<img src="./assets/img/proceso_bert.png" alt="image" width="70%">
 </p>
 
 
@@ -78,11 +78,11 @@
 
 
 <p align="center">
-<img src="assets/img/clustering_db.png" alt="image" width="40%">
+<img src="./assets/img/clustering_db.png" alt="image" width="50%">
 </p>
 
 <p align="center">
-<img src="assets/img/multi_espacial_db.png" alt="image" width="60%">
+<img src="./assets/img/multi_espacial_db.png" alt="image" width="70%">
 </p>
 
 
