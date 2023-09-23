@@ -5,7 +5,7 @@
 ## Education
 - Data Scientist | Bootcamp Henry (_2023_)								       		
 - M.S., Informatics and TICs	| National University of San Agustín de Arequipa - Perú  (_2021 - 2023_) 			        		
-- B.S., Computer Science | National University of San Agustín de Arequipa - Perú  (_2012 - 2018_)
+- B.S., Computer Science | National University of San Agustín de Arequipa - Perú  (_2012 - 2017_)
 
 ## Projects
 ### Comparison of models for the automatic classification of theses in Spanish in PDF format based on metadata using SVM, LSTM and BERT
